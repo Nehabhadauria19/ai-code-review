@@ -160,14 +160,7 @@ Best Practices:
 - Avoid using 'var', use 'let' or 'const'
 ```
 
----
 
-## 🚀 Deployment
-
-* Frontend: Vercel
-* Backend: Render
-
----
 
 ## 📌 Future Improvements
 
