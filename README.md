@@ -76,7 +76,7 @@ ai-code-review/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/ai-code-review.git
+git clone https://github.com/Nehabhadauria19/ai-code-review.git
 cd ai-code-review
 ```
 
